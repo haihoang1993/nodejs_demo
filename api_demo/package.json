@@ -1,0 +1,19 @@
+{
+  "name": "api_demo",
+  "version": "1.0.0",
+  "description": "demo api mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "Hoang Hai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "msql": "^1.0.3",
+    "mysql": "^2.13.0"
+  }
+}
